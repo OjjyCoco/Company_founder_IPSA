@@ -12,3 +12,4 @@ regroupe les cinq fichiers excel de 2015 à 2019 et il ne faut pas un doctorat s
 à l'interface Excel). Rentrez uniquement votre pays et votre ou vos départements souhaités et le programme vous sort les sociétés.
 
 Nathan 'Hackermann' Heckmann, IPSA Paris Promo 2024
+xoxo
